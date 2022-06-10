@@ -1,2 +1,0 @@
-Mandatory part of ft_printf project.
-Completly different to the mayor part od projects, cuase I build a string and after that I write it on screen.
